@@ -78,6 +78,8 @@ body{
   padding:1em;
 }
 .body_container{
-  background:#3c3a73;
+  border: 1px solid #12222d;
+  background: #3c3a73;
   width:50%;
+  padding:2%;
 }
