@@ -67,7 +67,6 @@ body{
 
 .sidebar_container{
   width:25%;
-  background:red;
 }
 .sidebar_header{
   background: #4b488c;
@@ -78,6 +77,6 @@ body{
   padding:1em;
 }
 .body_container{
-  background:blue;
+  background:#3c3a73;
   width:50%;
 }
