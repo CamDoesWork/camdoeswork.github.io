@@ -61,10 +61,12 @@ body{
 
 .sidebar_container{
   width:25%;
+  background:red;
 }
 .sidebar_header{
   
 }
 .body_container{
+  background:blue;
   width:50%;
 }
