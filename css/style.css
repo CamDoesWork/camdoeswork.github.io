@@ -15,6 +15,7 @@ body{
   margin:auto;
   background:#353369;
   display: flex;
+  padding: 1.5%;
 }
 .splash{
   height: 75%; 
