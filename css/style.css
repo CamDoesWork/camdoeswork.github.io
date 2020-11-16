@@ -21,6 +21,10 @@ body{
 .header {
   background: #4b4a67;
 }
+
+.nav{
+  box-shadow: 0 -20px 20px 20px #262633;
+}
 .nav ul {
   list-style-type: none;
   margin: 0;
