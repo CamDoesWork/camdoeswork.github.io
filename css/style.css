@@ -48,12 +48,12 @@ body{
 }
  
 .nav ul li a.active {
-  background-color: #4CAF50;
+  background-color: #353369;
   color: white;
 }
 
 .nav ul li a:hover:not(.active) {
-  background-color: #4caf50;
+  background-color: #353369;
   color: white;
 }
 
