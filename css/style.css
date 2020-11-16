@@ -61,6 +61,8 @@ body{
   width: 90%;
   background: green;
   margin: auto;
+  border-radius: 3px;
+  border: 1px solid #53adec;
 }
 
 .sidebar_container{
