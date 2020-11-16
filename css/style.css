@@ -57,7 +57,9 @@ body{
 
 
 .sidebar{
-  
+  width: 90%;
+  background: green;
+  margin: auto;
 }
 
 .sidebar_container{
@@ -65,7 +67,12 @@ body{
   background:red;
 }
 .sidebar_header{
-  
+  background: cyan;
+  text-align: center;
+  padding: 0.5em;
+}
+.sidebar_content{
+  padding:1em;
 }
 .body_container{
   background:blue;
