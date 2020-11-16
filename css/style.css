@@ -13,3 +13,9 @@ body{
   margin:auto;
   background:red;
 }
+.splash{
+  height: 50%; 
+}
+.header {
+  background: gray;
+}
